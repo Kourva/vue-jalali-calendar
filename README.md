@@ -21,6 +21,7 @@ So here it is. Free. Open. Yours. **Not to be the best. Just to be useful.** Use
 + 🎯 **Today Highlight**: Never lose track
 + 📤 **Export Ready**: JSON, CSV, iCal support (coming soon)
 + ⚡ **Haptic Feedback**: Nothing Phone optimized
++ 🌍 **Dual Display**: See both **Jalali** & **Gregorian** calendars at a glance, no confusion, no conversion.
 
 <br>
 
