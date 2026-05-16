@@ -79,7 +79,7 @@ const day = ref<number>(20);
 
 # Thank You
 
-I've been working on this for a while because of the current situation in IRAN , and I know if i share this repo many of you will been waiting. Sorry for the delay — I wanted to make sure it was actually useful before sharing.
+I've been working on this for a while because of the current situation in IRAN , and I know if i share this repo many of you will be waiting. Sorry for the delay — I wanted to make sure it was actually useful before sharing.
 
 <br>
 
