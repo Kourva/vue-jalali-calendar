@@ -95,4 +95,4 @@ Found a bug? Have an idea? Open an issue or PR. Let's make this better together.
 
 <br><br>
 
-### Made with love for the Persian community and open source friends everywhere.
+### Made with love for the Persian community and open source friends everywhere. Hope you find this helpful.
